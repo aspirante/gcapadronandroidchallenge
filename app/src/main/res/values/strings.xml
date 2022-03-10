@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Route</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="description">description</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="record">Record</string>
+    <string name="recording">Recording</string>
+    <string name="route_name">Route name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_error">Name mininum length is 4</string>
+    <string name="marker_start">Start</string>
+    <string name="marker_end">End</string>
+    <string name="marker_current">Current</string>
+    <string name="location_permission_needed">Location Permission Needed</string>
+    <string name="location_permission_needed_message">This app needs the Location permission, please accept to use location functionality</string>
+    <string name="ok">OK</string>
+    <string name="confirm">Confirm</string>
+    <string name="are_you_sure_delete_item">Are you sure to delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="permission_denied">permission denied</string>
+    <string name="granted_background_location_permission">Granted Background Location Permission</string>
+
+</resources>
